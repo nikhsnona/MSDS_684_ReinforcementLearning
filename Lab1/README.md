@@ -1,6 +1,6 @@
 # **Lab 1 – Multi-Armed Bandits & MDP Foundations**
 
-This repository contains the complete implementation for **MSDS 684 – Reinforcement Learning, Lab 1**. The work focuses on exploring the exploration–exploitation tradeoff through multi-armed bandit algorithms and early MDP analysis using Gymnasium environments.
+This lab contains the complete implementation for **MSDS 684 – Reinforcement Learning, Lab 1**. The work focuses on exploring the exploration–exploitation tradeoff through multi-armed bandit algorithms and early MDP analysis using Gymnasium environments.
 
 All experiments are implemented in a **Jupyter Notebook**, with code organized into clear sections for environments, agents, experiments, visualizations, and additional tests.
 
@@ -47,5 +47,5 @@ Lab1/
 │── Lab1.ipynb                    # Main notebook
 │── requirements.txt
 │── README.md
-│── plots/                        # Generated visualizations (optional)
-│── extras/                       # Additional experiments (optional)
+│── plots/                        # Generated visualizations 
+│── extras/                       # Additional experiments 
