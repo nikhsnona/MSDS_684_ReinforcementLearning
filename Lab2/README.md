@@ -1,6 +1,6 @@
 # **Lab 2 – Dynamic Programming: Policy & Value Iteration on GridWorld and FrozenLake**
 
-This repository contains the complete implementation for MSDS 684 – Reinforcement Learning, Lab 2. The work focuses on applying classical Dynamic Programming (DP) algorithms—including Policy Evaluation, Policy Iteration, and Value Iteration—to both a custom GridWorld environment and Gymnasium’s FrozenLake-v1.
+This lab contains the complete implementation for MSDS 684 – Reinforcement Learning, Lab 2. The work focuses on applying classical Dynamic Programming (DP) algorithms—including Policy Evaluation, Policy Iteration, and Value Iteration—to both a custom GridWorld environment and Gymnasium’s FrozenLake-v1.
 
 All experiments are implemented in a Jupyter Notebook, with code structured into clear sections for environment setup, DP algorithms, experiments, visualizations, and additional analyses.
 
@@ -74,6 +74,6 @@ Lab2/
 │── requirements.txt
 │── README.md
 │── outputs_dp_lab2/                 # Auto-generated plots and results
-│── extras/                          # Additional experiment cells (optional)
+│── extras/                          # Additional experiment cells
 ```
 
