@@ -38,7 +38,7 @@ The project includes:
 ## Code Structure
 
 
-.
+```
 ├── notebook.ipynb              # Main Jupyter notebook (all experiments)
 ├── option_c_results/
 │   ├── figures/
